@@ -5,7 +5,7 @@ IT-Student
 ----------
 
 * 🌍  I'm based in Stuttgart,Germany
-* 🚀  I'm currently working on [building my github page]([http://github.com/GitSimonVetter](https://github.com/GitSimonVetter?tab=repositories))
+* 🚀  I'm currently working on [building my github page]([http://github.com/GitSimonVetter?tab=repositories])
 * 🧠  I'm learning c# and c++
 
 ### Skills
