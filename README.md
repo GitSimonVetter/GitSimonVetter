@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Simon Vetter
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mein Name ist Simon Vetter.
 ====================================================================================================================================
 
-IT-Student
+IT-Schüler
 ----------
 
-* 🌍  I'm based in Stuttgart,Germany
-* 🚀  I'm currently working on [building my github page](http://github.com/GitSimonVetter?tab=repositories)
-* 🧠  I'm learning c# and c++
+* 🌍  Ich bin aus Stuttgart,Germany.
+* 🚀  Ich arbeite aktuell an [meiner github page](http://github.com/GitSimonVetter?tab=repositories)
+* 🧠  Ich lerne c#,c++ und SQL.
 
 ### Skills
 
