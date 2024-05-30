@@ -6,7 +6,7 @@ IT-Schüler
 
 * 🌍  Ich bin aus Stuttgart,Germany.
 * 🚀  Ich arbeite aktuell an [meiner github page](http://github.com/GitSimonVetter?tab=repositories)
-* 🧠  Ich lerne c#,c++ und SQL.
+* 🧠  Ich lerne c#, c++ und SQL.
 
 ### Skills
 
